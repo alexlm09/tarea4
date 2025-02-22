@@ -1,4 +1,14 @@
 package cuentas;
+
+/**
+ * Ejemplo de comentario de la clase CCuenta.
+ * 
+ * @author Alejandro Lago de Miranda
+ * @version 1.0
+ * @since 1.0
+ * @see <a href = ejemplodelinkutil.com>
+ * 
+ * */
 public class CCuenta {
 
 
